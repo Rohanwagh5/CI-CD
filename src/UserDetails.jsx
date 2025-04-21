@@ -28,6 +28,8 @@ const UserDetails = () => {
     return (
         <div className="card">
             <h2 className="text-2xl font-bold mb-4">Get User Details</h2>
+            <h2 className="text-2xl font-bold mb-4">Checked Pipeline</h2>
+
             <input 
                 type="text"
                 placeholder="Enter User ID"
